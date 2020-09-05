@@ -5,3 +5,5 @@ for i in range (len(a)):
 	sum += a[i]
 
 print (sum)
+
+#python code to print sum of elements of the array
